@@ -1,3 +1,3 @@
 # Gulp сборка
 
-![Демо](https://viverman.github.io/gulp/)
+[Демо](https://viverman.github.io/gulp/)
